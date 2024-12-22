@@ -1,4 +1,11 @@
 !/bin/bash
+#----------------------------------
+# Name: k8s Cluster Install 	  -
+# Developer: Md. Zakir Hossain    -
+# Mail: zakirpcs@gmail.com        -
+# Version: 1.0                    -
+# Release Date: 22-12-2024        -
+#----------------------------------
 
 # Global Variable
 _DOMAIN=example.com
